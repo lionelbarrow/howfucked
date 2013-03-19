@@ -1,0 +1,8 @@
+name: "How fucked is my web app?"
+description: "Honestly, it's probably pretty bad"
+
+url: "http://localhost:4000"
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
